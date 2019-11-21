@@ -1,0 +1,4 @@
+kinit mtereshyn	
+klist
+kdestroy
+
